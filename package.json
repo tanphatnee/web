@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "seamless-scroll-polyfill": "^2.1.8"
+  }
+}
